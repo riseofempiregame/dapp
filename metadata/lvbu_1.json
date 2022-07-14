@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Score",
+      "value": "105"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "1"
+    }
+  ],
+  "name": "Lv Bu",
+  "description": "Lv Bu, strongest general in the romance of three kingdoms, and certainly one of the strongest generals in game.",
+  "image": "https://cdn.jsdelivr.net/gh/riseofempiregame/dapp@latest/nft-images/lvbu_1.png"
+}

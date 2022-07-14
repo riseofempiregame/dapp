@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Score",
+      "value": "105"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "5"
+    }
+  ],
+  "name": "Ma Chao",
+  "description": "Ma Chao was a Chinese military general and warlord who lived in the late Eastern Han dynasty and early Three Kingdoms period of China",
+  "image": "https://cdn.jsdelivr.net/gh/riseofempiregame/dapp@latest/nft-images/machao_5.png"
+}

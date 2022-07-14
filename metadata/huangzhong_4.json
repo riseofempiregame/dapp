@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Score",
+      "value": "105"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "4"
+    }
+  ],
+  "name": "Huang Zhong",
+  "description": "Huang Zhong was a Chinese military general, expertise in Archery, serving under the warlord Liu Bei during the late Eastern Han dynasty of China",
+  "image": "https://cdn.jsdelivr.net/gh/riseofempiregame/dapp@latest/nft-images/huangzhong_4.png"
+}

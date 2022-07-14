@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Score",
+      "value": "105"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "2"
+    }
+  ],
+  "name": "Guan Yu",
+  "description": "Guan Yu was a Chinese military general serving under the warlord Liu Bei. Along with Zhang Fei, he shared a brotherly relationship with Liu Bei and accompanied him on most of his early exploits.",
+  "image": "https://cdn.jsdelivr.net/gh/riseofempiregame/dapp@latest/nft-images/guanyu_2.png"
+}

@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Score",
+      "value": "105"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "5"
+    }
+  ],
+  "name": "Zhuge Liang",
+  "description": "Zhuge Liang, the most famous military strategist in the history of Romance of Three Kingdoms. Courtesy name Kongming",
+  "image": "https://cdn.jsdelivr.net/gh/riseofempiregame/dapp@latest/nft-images/zhugeliang_5.png"
+}

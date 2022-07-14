@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Score",
+      "value": "105"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "7"
+    }
+  ],
+  "name": "Zhang Fei",
+  "description": "Zhang Fei, specializes in 1 vs 1 battle, had a chance to immune to all attacks once its skill triggers.",
+  "image": "https://cdn.jsdelivr.net/gh/riseofempiregame/dapp@latest/nft-images/zhangfei_7.png"
+}

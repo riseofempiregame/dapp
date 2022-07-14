@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Score",
+      "value": "105"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "4"
+    }
+  ],
+  "name": "Hua Tuo",
+  "description": "Hua Tuo was the most famous Chinese physician who lived during the late Eastern Han dynasty.",
+  "image": "https://cdn.jsdelivr.net/gh/riseofempiregame/dapp@latest/nft-images/huatuo_4.png"
+}
