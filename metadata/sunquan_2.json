@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Score",
+      "value": "100"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "2"
+    }
+  ],
+  "name": "Sun Quan",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/riseofempiregame/dapp/master/nft-images/sunquan_2.png"
+}

@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Score",
+      "value": "100"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "0"
+    }
+  ],
+  "name": "Lu Su",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/riseofempiregame/dapp/master/nft-images/lusu_0.png"
+}

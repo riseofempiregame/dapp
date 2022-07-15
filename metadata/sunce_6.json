@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Score",
+      "value": "100"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "6"
+    }
+  ],
+  "name": "Sun Ce",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/riseofempiregame/dapp/master/nft-images/sunce_6.png"
+}
