@@ -1,0 +1,1 @@
+import{d as e,B as o,aD as a}from"./arco.2d71d886.js";import{_ as r}from"./page-layout.f00973b9.js";import"./index.b48f966f.js";import"./chart.be7017d0.js";import"./vue.8d2bace5.js";const _=e({setup(t){return(s,c)=>(o(),a(r))}});export{_ as default};
